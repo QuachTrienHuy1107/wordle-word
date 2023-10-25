@@ -1,5 +1,6 @@
 export const WORD_LIST = [
     "ALBUM",
+    "HELLO",
     "CAUSE",
     "CARRY",
     "HINGE",
